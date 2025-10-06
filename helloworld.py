@@ -1,3 +1,3 @@
-print('Welcome to our course EE103')
+print("MERHABA")
 
 import pdb;pdb.set_trace()
